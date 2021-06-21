@@ -1,0 +1,3 @@
+GraphQL endpoint: https://suaeqphbrndvtmzou4dqpmwe5u.appsync-api.us-east-2.amazonaws.com/graphql
+GraphQL API KEY: da2-6rlt6bz7evanrjzur633nibalm
+http://vueamplify-20210621180136-hostingbucket-dev.s3-website.us-east-2.amazonaws.com

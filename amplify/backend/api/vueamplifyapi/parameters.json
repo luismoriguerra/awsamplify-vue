@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "vueamplifyapi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
